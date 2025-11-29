@@ -114,4 +114,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. Press 'q' to quit the application
 5. Run python main.py
 ```bash
+
 python main.py
